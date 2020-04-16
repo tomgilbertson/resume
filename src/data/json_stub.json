@@ -1,16 +1,16 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Tom Gilbertson",
         "label": "Programmer",
         "picture": "",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
+        "email": "tomgilbertson4@gmail.com",
+        "phone": "(661) 313-8812",
         "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "summary": "About Me",
         "location": {
             "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
+            "postalCode": "91355",
+            "city": "Valencia",
             "countryCode": "US",
             "region": "California"
         },
@@ -24,68 +24,60 @@
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Appetize",
+            "position": "Senior Data Engineer",
+            "website": "https://appetize.com",
+            "startDate": "2017-01-01",
+            "summary": "Started an externally facing reporting product embedded in our web app built with Tableau. Currently lead a team, helping scale infrastructure using custom built services, as well as ETL data from RDBMS to a data warehouse.",
+            "location": "Playa Vista, California",
+            "highlights": [""]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
+            "name": "AM-Touch Dental",
+            "position": "Info Systems",
+            "website": "https://amtouch.com",
+            "startDate": "2012-06-01",
+            "endDate": "2016-12-31",
+            "summary": "Leveraged my skills to automate reports and make decision making much easier. Analyzed all aspects of our business for efficiency gains in all departments, including sales, marketing, accounting, purchasing, finance, and operations. Used data to implement strategies and help change processes to build and grow the company.",
+            "location": "Valencia, CA",
             "highlights": ["Started the company"]
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
+            "organization": "HOTC Church",
+            "position": "Musician",
+            "website": "https://www.heartofthecanyons.com/canyoncountry",
+            "endDate": "2017-01-01",
             "summary": "Description...",
             "highlights": ["Awarded 'Volunteer of the Month'"]
         }
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "institution": "Master's University",
+            "area": "Applied Mathematics",
+            "studyType": "Mathematics Degree",
+            "startDate": "2010-08-01",
+            "endDate": "2012-06-01",
             "gpa": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         },
         {
-            "institution": "Université d'artois",
+            "institution": "Azusa Pacific University",
             "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
+            "studyType": "Mathematics",
+            "startDate": "2007-08-01",
+            "endDate": "2010-06-01",
             "gpa": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         }
     ],
     "awards": [
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
+            "title": "Employee of the Year",
+            "date": "2015-12-31",
+            "awarder": "AM-Touch",
             "summary": "There is no spoon."
         }
     ],
@@ -100,103 +92,107 @@
     ],
     "skills": [
         {
-            "name": "Reactaaa",
+            "name": "Python",
             "level": "Master",
             "value": 100,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Angular",
+            "name": "Tableau",
             "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "NodeJS",
+            "name": "SQL",
             "level": "Master",
             "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
+            "name": "Docker",
             "level": "Master",
             "value": 60,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Gmail",
+            "name": "K8S",
             "level": "Master",
             "value": 20,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "K8S",
+            "name": "Snowflake",
             "level": "Master",
             "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Airflow",
+            "level": "Master",
+            "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
     "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
     "interests": [
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+            "name": "Sports",
+            "gifUrl": "https://media.giphy.com/media/4PEksDDenPVrW/giphy.gif"
         },
         {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+            "name": "Outdoors",
+            "gifUrl": "https://media.giphy.com/media/Wbt06CKvVEOyc/giphy.gif"
         },
         {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+            "name": "Family",
+            "gifUrl": "https://media.giphy.com/media/yoCUHTxRDA8Tu/giphy-downsized-large.gif"
         },
         {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "Music",
+            "gifUrl": "https://media.giphy.com/media/oewr5qXiye6fm/giphy.gif"
         }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
         {
-            "name": "Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
+            "name": "Tableau Server Management Service",
+            "description": "Service written in Python to automate deployments, manage environments, and implement version control.",
+            "images": [
+                {
+                  "url": "https://tomgilbertson-images.s3-us-west-1.amazonaws.com/Analytics-API.png"
+                }
+              ]
+        },
+        {
+            "name": "Reporting API for Snowflake",
+            "description": "First written in Flask, later upgraded to FastAPI as a reporting API for internal and external use.",
             "images": []
         }
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "personalDescription": "Mathematics background, like data and analytics, and enjoy scaling infrastructure and the challenges that come with that. Coding is satisfying to me because I am creating something out of nothing (which is why I enjoy woodworking as well). Currently reside in Santa Clarita, married, and have an endless list of home projects :)"
         },
         "dreamJob": {
             "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Paris,France" },
-                { "name": "Lille, France" },
-                { "name": "Valenciennes, France" }
+                { "name": "Santa Clarita, CA" },
+                { "name": "Hood River, OR" },
+                { "name": "Austin, TX" },
+                { "name": "Boise, ID" },
+                { "name": "Bellingham, WA" }
             ],
-            "remoteFrequency": "regularly"
+            "remoteFrequency": "occasionally"
         },
-        "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
-        },
-        "education": { "studiesLevel": 5 },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
-            "searchState": "activelySearching",
-            "experienceYears": 9
+            "codingYears": 6,
+            "experienceYears": 8
         },
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Devops, tiny houses, and all things Raspberry Pi."
     },
     "resumeCustomization": {
         "imageHeader": {
@@ -205,20 +201,62 @@
         },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
             { "type": "experiences", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "projects", "variant": 4 },
+            { "type": "dreamjob", "variant": 4 },
             { "type": "studies", "variant": 4 },
             { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
+            { "type": "interestedBy", "variant": 3 }
         ],
         "fields": {
             "work": {
-                "customDateFormat": "YYYY"
+              "customDateFormat": "YYYY"
             }
+          },
+          "theme": {
+            "palette": {
+              "primary": {
+                "50": "#eeeded",
+                "100": "#dedcdc",
+                "200": "#bdb9b9",
+                "300": "#9b9595",
+                "400": "#7a7272",
+                "500": "#594f4f",
+                "600": "#473f3f",
+                "700": "#352f2f",
+                "800": "#242020",
+                "900": "#121010",
+                "contrastDefaultColor": "light"
+              },
+              "secondary": {
+                "50": "#eef2f2",
+                "100": "#dde4e6",
+                "200": "#bbc9cc",
+                "300": "#98afb3",
+                "400": "#769499",
+                "500": "#547980",
+                "600": "#436166",
+                "700": "#32494d",
+                "800": "#223033",
+                "900": "#11181a",
+                "contrastDefaultColor": "light"
+              },
+              "tertiary": {
+                "50": "#ecf7f6",
+                "100": "#daefee",
+                "200": "#b5dedc",
+                "300": "#8fcecb",
+                "400": "#6abdb9",
+                "500": "#45ada8",
+                "600": "#378a86",
+                "700": "#296865",
+                "800": "#1c4543",
+                "900": "#0e2322",
+                "contrastDefaultColor": "light"
+              }
+            }
+          }
         }
-    }
-}
+      }
+      

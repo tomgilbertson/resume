@@ -37,7 +37,7 @@ const UserInformationsComponent = () => {
                     }}
                     component="h4"
                 >
-                    {data.basics?.summary}
+                    {data.basics?.email}
                 </Typography>
                 {additionalNodes}
             </Column>

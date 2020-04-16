@@ -7,7 +7,7 @@ export const jobPerksTranslations = defineMessages({
     },
     challenge: {
         id: 'Developer.JobPerks.challenge',
-        defaultMessage: 'Challenge'
+        defaultMessage: 'Challenging'
     },
     salary: {
         id: 'Developer.JobPerks.salary',

@@ -10,7 +10,7 @@ import { styles } from './avatar_styles';
 
 const useStyles = createUseStyles(styles);
 
-const DEFAULT_IMAGE = 'https://i.pravatar.cc/250';
+const DEFAULT_IMAGE = 'https://tomgilbertson-images.s3-us-west-1.amazonaws.com/Gilbertson_Tom_crop.png';
 const AvatarComponent = ({ src, displayedName }) => {
     const classes = useStyles();
     const [receivedGlobalClasses] = useReceivedGlobalClasses('banner.avatar');

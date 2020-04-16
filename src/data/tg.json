@@ -217,8 +217,52 @@
         ],
         "fields": {
             "work": {
-                "customDateFormat": "YYYY"
+              "customDateFormat": "YYYY"
             }
+          },
+          "theme": {
+            "palette": {
+              "primary": {
+                "50": "#eeeded",
+                "100": "#dedcdc",
+                "200": "#bdb9b9",
+                "300": "#9b9595",
+                "400": "#7a7272",
+                "500": "#594f4f",
+                "600": "#473f3f",
+                "700": "#352f2f",
+                "800": "#242020",
+                "900": "#121010",
+                "contrastDefaultColor": "light"
+              },
+              "secondary": {
+                "50": "#eef2f2",
+                "100": "#dde4e6",
+                "200": "#bbc9cc",
+                "300": "#98afb3",
+                "400": "#769499",
+                "500": "#547980",
+                "600": "#436166",
+                "700": "#32494d",
+                "800": "#223033",
+                "900": "#11181a",
+                "contrastDefaultColor": "light"
+              },
+              "tertiary": {
+                "50": "#ecf7f6",
+                "100": "#daefee",
+                "200": "#b5dedc",
+                "300": "#8fcecb",
+                "400": "#6abdb9",
+                "500": "#45ada8",
+                "600": "#378a86",
+                "700": "#296865",
+                "800": "#1c4543",
+                "900": "#0e2322",
+                "contrastDefaultColor": "light"
+              }
+            }
+          }
         }
-    }
-}
+      }
+      

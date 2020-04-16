@@ -127,12 +127,7 @@ const Content = ({ helpers: { handleValueChange, toggleValue } }) => {
                         defaultMessage="How long have you been coding?"
                     />
                 }
-                subtitle={
-                    <FormattedMessage
-                        id="Basics.editDialog.codingYears.subtitle"
-                        defaultMessage="(every experiences, studies, personal projects, work...)"
-                    />
-                }
+                subtitle={<FormattedMessage id="Basics.editDialog.codingYears.subtitle" defaultMessage="" />}
             >
                 <div className={classes.valueSliderContainer}>
                     <Typography className={classes.sliderValue}>
