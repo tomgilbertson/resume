@@ -110,18 +110,6 @@
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Docker",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
             "name": "Snowflake",
             "level": "Master",
             "value": 80,
@@ -130,7 +118,19 @@
         {
             "name": "Airflow",
             "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Docker",
+            "level": "Master",
             "value": 40,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "K8S",
+            "level": "Master",
+            "value": 20,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
