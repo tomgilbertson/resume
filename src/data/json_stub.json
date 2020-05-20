@@ -166,7 +166,7 @@
         },
         {
             "name": "Reporting API for Snowflake",
-            "description": "First written in Flask, later upgraded to FastAPI as a reporting API for internal and external use.",
+            "description": "REST API written in Flask as a reporting API for internal use.",
             "images": []
         }
     ],
